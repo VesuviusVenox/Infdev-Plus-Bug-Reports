@@ -3,7 +3,6 @@ A public repository used to track bugs related to Infdev+. Anyone can contribute
 
 Please adhere to the following rules when reporting issues. Failure to comply with these may lead to your issue being closed without further investigation. The developer(s) need as much information as possible to get to the bottom of specific issues!
 
-* When reporting issues, please use the correct label! 
 * Mod version. Very important, as the reported bug might already be fixed in a newer version!
 * If reporting crashes, please attach a full crash log. Crash logs can easily be accessed from the MultiMC console, and they should also be stored in the mod's instance folder.
 * Screenshots/Videos demonstrating the issue (if possible)
