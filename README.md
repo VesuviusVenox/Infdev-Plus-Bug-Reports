@@ -11,9 +11,9 @@ Please adhere to the following rules when reporting issues. Failure to comply wi
 * If reporting graphical issues, make sure to also include your driver version, GPU make and model and operating system (you can find all of these in the debug screen in-game)
 
 Common problems:
-* Mod runs poorly/laggy: This is likely caused by the chunk stutter issue. When generating new chunks, the game stutters depending on the world type, world height and biome it is generating the chunks in. This will be fixed in the near future.
+* Mod requires at least 4 GB of memory to run properly. This is caused by some type of a memory leak in the code and is being actively investigated.
 * Some structures may generate only halfway or are otherwise missing important rooms (such as the key room in the stronghold). This is being investigated.
-* The AI system used by some mobs is still the original, Infdev system, so they make have difficulties pathfinding or get stuck. This will be addressed soon by migrating them to the new AI system.
+* The AI system used by some mobs is still the original, Infdev system, so they may have difficulties pathfinding or get stuck. This will be addressed soon by migrating them to the new AI system.
 * In very rare cases, you may experience a crash when generating chunks at or near a forest biome. This is caused by an infinite leaf decay loop the game can't exit out of, but should be fixed if you reload the world. This will be resolved when I rewrite the leaf decay in the near future.
 * There is no multiplayer as of yet.
 
