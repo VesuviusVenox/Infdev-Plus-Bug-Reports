@@ -1,14 +1,8 @@
 # Infdev-Plus-Bug-Reports
 A public repository used to track bugs related to Infdev+. Anyone can contribute to this and it is actively tracked by the developer!
 
-Please adhere to the following rules when reporting issues. Failure to comply with these may lead to your issue being closed without further investigation. The developer(s) need as much information as possible to get to the bottom of specific issues!
-
-* Mod version. Very important, as the reported bug might already be fixed in a newer version!
-* If reporting crashes, please attach a full crash log. Crash logs can easily be accessed from the MultiMC console, and they should also be stored in the mod's instance folder.
-* Screenshots/Videos demonstrating the issue (if possible)
-* Full description of the issue
-* Steps to reproduce (or what you were doing before the issue happened, to help us reproduce it on our end)
-* If reporting graphical issues, make sure to also include your driver version, GPU make and model and operating system (you can find all of these in the debug screen in-game)
+PLEASE USE THE CORRESPONDING TEMPLATE WHEN POSTING BUGS!!! If you do not provide adequate information (e.g. you don't fully fill out the form or don't use it at all), YOUR REPORT WILL BE MARKED AS INVALID AND IGNROED! 
+Please do not flood the repo with nothingburger reports!
 
 Common problems:
 * Mod requires at least 4 GB of memory to run properly. This is caused by some type of a memory leak in the code and is being actively investigated.
